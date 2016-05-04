@@ -5,6 +5,7 @@ Shows weather based on location
 - syncs data from the server using SyncAdapter
 - stores data in ContentProvider
 - landscape and portrait support
+- share forecast via sharing api
 
 Slides:
 https://drive.google.com/open?id=0B25JcpedG0JvQmgxMFdOQ2o3aVE
